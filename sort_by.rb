@@ -11,7 +11,7 @@ def bubble_sort(array)
 			end
 		end
 	end
-	puts "This is the soreted list #{array}"
+	puts "This is the sorted list #{array}"
 end
 
 # Inserting the list for sorting
@@ -34,7 +34,7 @@ def bubble_sort_by(array)
 		end
 		passes -= 1
 	end
-	puts "This is the soreted list after sorting : #{array}"
+	puts "This is the sorted list after sorting : #{array}"
 end
 
 # Inserting the list for sorting
