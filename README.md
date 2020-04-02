@@ -2,7 +2,17 @@
 
 Bubble-Sort
 
-![screenshot](screenshot.png)
+Code on Ruby
+
+![screenshot](./images/Code.PNG)
+
+Output.PNG
+
+![screenshot](./images/Output.PNG)
+
+## Getting the Repo
+
+git clone https://github.com/shubham14p3/Advanced-Building-Blocks-Bubble-Sort.git
 
 ## Built With
 
@@ -10,7 +20,7 @@ Bubble-Sort
 
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://shubham14p3.github.io/Advanced-Building-Blocks-Bubble-Sort/.)
 
 ## Authors
 
